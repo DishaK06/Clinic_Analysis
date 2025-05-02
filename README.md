@@ -71,4 +71,10 @@ General Practice and Orthopedics account for 30.75% of referrals, while departme
 - Admin Flag Analysis:
 Just over half (50.04%) of visitors are registered patients, while the remaining 49.96% are non-patients or general visitors—revealing a balanced mix of clinical and non-clinical footfall.
 
+## Dashboards
 
+### Demographics Dashboard
+![](https://github.com/DishaK06/Clinic_Analysis/blob/main/Assets/Demographics_Analysis.png)
+
+### Services Dashboard
+![](https://github.com/DishaK06/Clinic_Analysis/blob/main/Assets/Services_Analysis.png)
