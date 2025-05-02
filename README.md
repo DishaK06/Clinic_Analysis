@@ -1,4 +1,4 @@
-# Clinic_Analysis
+# Clinic Data Analysis
 
 This Power BI dashboard provides an interactive and insightful view of clinic visitor data, enabling data-driven decision-making for healthcare professionals. By leveraging DAX and Power Query, the dashboard uncovers key trends in patient demographics and service utilization. It integrates data modeling best practices and multiple data sources to deliver meaningful KPIs and dynamic visualizations. This tool empowers users to optimize resources, enhance operational efficiency, and improve the overall quality of patient care through actionable business intelligence.
 
